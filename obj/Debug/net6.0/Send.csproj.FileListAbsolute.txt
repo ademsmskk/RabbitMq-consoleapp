@@ -1,0 +1,17 @@
+C:\Users\SahaBT Yazılım\Send\bin\Debug\net6.0\Send.exe
+C:\Users\SahaBT Yazılım\Send\bin\Debug\net6.0\Send.deps.json
+C:\Users\SahaBT Yazılım\Send\bin\Debug\net6.0\Send.runtimeconfig.json
+C:\Users\SahaBT Yazılım\Send\bin\Debug\net6.0\Send.dll
+C:\Users\SahaBT Yazılım\Send\bin\Debug\net6.0\ref\Send.dll
+C:\Users\SahaBT Yazılım\Send\bin\Debug\net6.0\Send.pdb
+C:\Users\SahaBT Yazılım\Send\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\SahaBT Yazılım\Send\obj\Debug\net6.0\Send.csproj.AssemblyReference.cache
+C:\Users\SahaBT Yazılım\Send\obj\Debug\net6.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SahaBT Yazılım\Send\obj\Debug\net6.0\Send.AssemblyInfoInputs.cache
+C:\Users\SahaBT Yazılım\Send\obj\Debug\net6.0\Send.AssemblyInfo.cs
+C:\Users\SahaBT Yazılım\Send\obj\Debug\net6.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\SahaBT Yazılım\Send\obj\Debug\net6.0\Send.csproj.CopyComplete
+C:\Users\SahaBT Yazılım\Send\obj\Debug\net6.0\Send.dll
+C:\Users\SahaBT Yazılım\Send\obj\Debug\net6.0\ref\Send.dll
+C:\Users\SahaBT Yazılım\Send\obj\Debug\net6.0\Send.pdb
+C:\Users\SahaBT Yazılım\Send\obj\Debug\net6.0\Send.genruntimeconfig.cache
